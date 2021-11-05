@@ -1,5 +1,5 @@
 # concorthotel
-You need configure your pom.xml file tyo your own jdk version
+You need configure  pom.xml file to your own jdk version
 
  <!-- Please edit maven.compiler.source property to your own jdk version  -->
     <properties>
