@@ -1,4 +1,4 @@
-package com.ConcorthOthel.pages;
+package com.ConcorthOthel.pages.US0010;
 
 import com.ConcorthOthel.utilities.Driver;
 import org.openqa.selenium.WebElement;

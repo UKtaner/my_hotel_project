@@ -1,4 +1,4 @@
-package com.ConcorthOthel.pages;
+package com.ConcorthOthel.pages.US0010;
 
 import com.ConcorthOthel.utilities.Driver;
 import org.openqa.selenium.WebElement;
@@ -10,7 +10,7 @@ public class MainPage {
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
-    @FindBy(linkText = "Log in")
+    @FindBy(id = "navLogon")
     public WebElement mainPageLoginLink;
     }
 
